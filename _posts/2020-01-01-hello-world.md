@@ -1,5 +1,9 @@
 ---
 layout: post
+title:  "Test Blog"
+categories: programming
+tag:
+  - programming
 ---
 
 Did this edit work???
