@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: whiteglass theme
-author: Yous
+title: Sanjay Seenivasan
+author: Sanjay Seenivasan
 description: Minimal, responsive Jekyll theme for hackers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sjay05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,6 +38,8 @@ facebook_app_id:
 facebook_image:
 google_analytics:
 comments: false
+
+theme: jekyll-whiteglass
 
 # Plugins
 plugins:
@@ -63,12 +65,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   toc_levels: 1..6
 
-# jekyll-archives
-#jekyll-archives:
-#  enabled:
-#    - categories
-#    - tags
-#  layout: category_archives
-#  permalinks:
- #   category: /categories/:name/
-  #  tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/

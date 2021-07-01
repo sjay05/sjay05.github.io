@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Test Blog"
+title:  "New Blog Post"
 ---
 
 ## Subtask 1
 
-For each query from $$l$$ to $$r$$, iterate $$r \le i \le N$$ and find the furthest left endpoint $$\text{lft}[i]$$ such that all stuffed animals from $$\text{lft}[i]$$ to $$i$$ are unique. We take the maximum of $$i - \text{lft}[i] + 1$$ for all $$\text{lft}[i] \le l$$.
+For each query from ~l~ to $$r$$, iterate $$r \le i \le N$$ and find the furthest left endpoint $$\text{lft}[i]$$ such that all stuffed animals from $$\text{lft}[i]$$ to $$i$$ are unique. We take the maximum of $$i - \text{lft}[i] + 1$$ for all $$\text{lft}[i] \le l$$.
 
 **Time Complexity:** $$\mathcal{O}(Q N^2)$$
 
@@ -16,6 +16,8 @@ To optimize, we use a two pointer approach to determine $$\text{lft}[i]$$ for al
 As we did before, we take the maximum of $$i - \text{lft}[i] + 1$$ for all $$\text{lft}[i] \le l$$.
 
 **Time Complexity:** $$\mathcal{O}(Q N)$$
+
+<!-- more -->
 
 ## Subtask 3
 
@@ -56,3 +58,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
