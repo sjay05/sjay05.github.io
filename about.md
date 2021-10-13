@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-Hello, I'm Sanjay, currently in Grade 10 at Glenforest Secondary School.
+Hello, I'm Sanjay, currently in Grade 11 at Glenforest Secondary School.
 
 Welcome to my blog site, home to posts about programming problems, and
 problem-solving techniques.
