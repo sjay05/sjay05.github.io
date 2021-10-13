@@ -17,8 +17,8 @@ This site is powered by [Jekyll](https://jekyllrb.com/) and [Whiteglass](https:/
 
 * [https://devpost.com/software/nytfox](https://devpost.com/software/nytfox)
 
-* [https://devpost.com/software/evlav-detection](https://devpost.com/software/evlav-detection)
+* [https://devpost.com/software/evlav-detection](https://devpost.com/software/evlav-detection) [Winner]
 
-* [https://github.com/sjay05/mobile-salon](https://github.com/sjay05/mobile-salon)
+* [https://github.com/sjay05/mobile-salon](https://github.com/sjay05/mobile-salon) [Winner]
 
 * [https://devpost.com/software/dyna-dynamic-chat-command-app](https://devpost.com/software/dyna-dynamic-chat-command-app)
