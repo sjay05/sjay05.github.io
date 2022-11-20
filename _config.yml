@@ -39,7 +39,7 @@ facebook_image:
 google_analytics:
 comments: false
 
-theme: yous/whiteglass
+remote_theme: yous/whiteglass
 
 # Plugins
 plugins:
