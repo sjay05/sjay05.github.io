@@ -11,8 +11,6 @@ problem-solving techniques.
 
 This site is powered by [Jekyll](https://jekyllrb.com/) and [Whiteglass](https://github.com/yous/whiteglass).
 
----
-
 ### Experience:
 
 #### **Glenforest S.S. - Gr.12 - IB Diploma Program**
