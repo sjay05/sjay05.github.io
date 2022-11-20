@@ -31,7 +31,7 @@ This site is powered by [Jekyll](https://jekyllrb.com/) and [Whiteglass](https:/
 
 * CCC Solutions: [https://github.com/sjay05/CCC-Solutions](https://github.com/sjay05/CCC-Solutions)
 
-### Hackathon Projects
+### Hackathon Projects:
 
 * Hack the North 2021: [https://github.com/sjay05/nytfox](https://github.com/sjay05/nytfox)
 
