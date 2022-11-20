@@ -54,6 +54,14 @@ My interests are in Math and Computer Science. Whether it be solving an Algorith
 
 ---
 
+### Software Skills:
+
+* Data Structures and Algorithms using C++ and Python
+
+* Web/Mobile: Django, SQLite, Flask, Dart, Flutter, Firebase, Javascript, HTML, CSS
+
+* Tools: LaTex, Markdown
+
 ### Repositories:
 
 * CCC Solutions: [https://github.com/sjay05/CCC-Solutions](https://github.com/sjay05/CCC-Solutions)
