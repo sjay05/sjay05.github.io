@@ -20,16 +20,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sjay05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - Rakefile
-#   - README.md
-#   - LICENSE.txt
-#   - CHANGELOG.md
-#   - jekyll-whiteglass.gemspec
-#   - screenshot.png
-#   - vendor
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - LICENSE.txt
+  - CHANGELOG.md
+  - jekyll-whiteglass.gemspec
+  - screenshot.png
+  - vendor
 
 # Social media
 twitter_username:
@@ -39,7 +39,7 @@ facebook_image:
 google_analytics:
 comments: false
 
-theme: jekyll-whiteglass
+theme: yous/whiteglass
 
 # Plugins
 plugins:
