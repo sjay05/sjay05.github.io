@@ -6,10 +6,9 @@ permalink: /about/
 
 Hello, I'm Sanjay, currently in Grade 12 at Glenforest Secondary School, Mississauga, ON.
 
-Welcome to my blog site, mainly home to posts about math and contest-programming problems and problem solving techniques.
+My interests are in Math and Computer Science. Whether it be solving an Algorithmic problem or developing a software project, I strive to write code with elegance and readability. 
 
 ---
-
 ### Experience:
 
 #### **Glenforest S.S. - Gr.12 - IB Diploma Program**
