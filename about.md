@@ -62,7 +62,7 @@ My interests are in Math and Computer Science. Whether it be solving an Algorith
 
 * Tools: LaTex, Markdown
 
-### Repositories:
+### Open-Source Github:
 
 * CCC Solutions: [https://github.com/sjay05/CCC-Solutions](https://github.com/sjay05/CCC-Solutions)
 
