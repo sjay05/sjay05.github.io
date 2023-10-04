@@ -4,6 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
-Hello, I'm Sanjay, currently in Grade 12 at Glenforest Secondary School, Mississauga, ON.
+I'm a first year student in the Bachelor of Computer Science '28 program at the University of Waterloo. I graduated with an IB Diploma from Glenforest S.S. in 2023.
 
 My interests are in Math and Computer Science.
+
+Github: https://github.com/sjay05
