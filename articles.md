@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "My Articles"
-permalink: /articles
+permalink: /articles/
 ---
 
 ### (Investigating the RSA Cipher & Diffe-Hellman Key Exchange) How are Mathematical concepts used in cryptographic solutions to achieve Information Security:
