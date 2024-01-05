@@ -8,7 +8,7 @@ permalink: /articles/
 - Covered and proved Modular Arithmetic & Number Theory Essentials (FLT, CRT) to introduce the RSA Cipher and provide a proof of correctness.
 - My **Mathematics Extended Essay** that I completed for the IB Diploma
 
-### [The relationship of Temperature (˚T) on the spring constant of Polymer molecules (i.e., Rubber Bands)](https://sjay05.github.io/SL_Physics_IA.pdf)
+### [The relationship of Temperature (˚T) on the spring constant of Polymer molecules](https://sjay05.github.io/SL_Physics_IA.pdf)
 - Investigated an extension into Young's modulus (by comparing stress/strain under varying temperatures)
 - Outlined the limitations of Hooke's law in the real-world by considering the elasticity of rubber-like materials
 - My **Phyics Internal Assessment** that I completed for the IB Diploma (SL Physics)
