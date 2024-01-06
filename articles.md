@@ -11,4 +11,4 @@ permalink: /articles/
 ### [The relationship of Temperature (˚T) on the spring constant of Polymer molecules](https://sjay05.github.io/SL_Physics_IA.pdf)
 - Investigated an extension into Young's modulus (by comparing stress/strain under varying temperatures)
 - Outlined the limitations of Hooke's law in the real-world by considering the elasticity of rubber-like materials
-- My **Phyics Internal Assessment** that I completed for the IB Diploma (SL Physics)
+- My **Physics Internal Assessment** that I completed for the IB Diploma (SL Physics)
