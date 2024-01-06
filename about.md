@@ -18,7 +18,7 @@ Here are my blogs:
 
 - [**On WALs and fsync()**](https://sjay05.github.io/2024/01/06/cwal/)
 - [**My Articles (Math & Physics)**](https://sjay05.github.io/2023/06/05/articles/)
-- [**Prefix Digits - An Outline**](https://sjay05.github.io/2022/10/24/pdigit/)
+- [**Prefix Digits - An Outline (Number Theory)**](https://sjay05.github.io/2022/10/24/pdigit/)
 - [**AAC1 P5 - Odd Alpacas (Graph Theory)**](https://sjay05.github.io/2021/07/01/aac1p5/)
 
 Github: [https://github.com/sjay05](https://github.com/sjay05)
