@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-I am a first year Computer Science (BCS) student at the University of Waterloo. My interests are in Math and Computer Science. You can check out some of my blog posts on the [home page](https://sjay05.github.io/).
+I am a first year Computer Science (BCS) student at the University of Waterloo. My interests are in Math and Computer Science.
 
 Here are some of my projects:
 
@@ -14,6 +14,12 @@ Here are some of my projects:
 - [**Zinc - ANS**](https://github.com/sjay05/zinc-ans): A DNS-inspired solution that functions as an address naming service
 - [**Evlav**](https://github.com/sjay05/EvlavDetection): A plagiarism detector between scribed work and electronic text
 
+Here are my blogs:
+
+- [**On WALs and fsync()**](https://sjay05.github.io/2024/01/06/cwal/)
+- [**My Articles (Math & Physics)**](https://sjay05.github.io/2023/06/05/articles/)
+- [**Prefix Digits - An Outline**](https://sjay05.github.io/2022/10/24/pdigit/)
+- [**AAC1 P5 - Odd Alpacas (Graph Theory)**](https://sjay05.github.io/2021/07/01/aac1p5/)
 
 Github: [https://github.com/sjay05](https://github.com/sjay05)
 
