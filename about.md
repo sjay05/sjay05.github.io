@@ -9,9 +9,9 @@ I am a first year Computer Science (BCS) student at the University of Waterloo. 
 Here are some of my projects:
 
 - [**CCC Solutions**](https://github.com/sjay05/CCC-Solutions): A collection of Waterloo CEMC CCC Solutions in C++ and Python
+- [**CWal**](https://github.com/sjay05/cwal): A Write Ahead Log (WAL) implementation in C++
 - [**Nytfox**](https://github.com/sjay05/nytfox): A real time car theft monitoring and alert system with Raspberry Pi
 - [**Zinc - ANS**](https://github.com/sjay05/zinc-ans): A DNS-inspired solution that functions as an address naming service
-- [**CWal**](https://github.com/sjay05/cwal): A Write Ahead Log (WAL) implementation in C++
 - [**Evlav**](https://github.com/sjay05/EvlavDetection): A plagiarism detector between scribed work and electronic text
 
 
