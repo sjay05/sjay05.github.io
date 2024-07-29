@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-I am a first year Computer Science (BCS) student at the University of Waterloo. My interests are in Math and Computer Science.
+I am a Computer Science (BCS) student at the University of Waterloo. My interests are in Math and Computer Science.
 
 Here are some of my projects:
 
